@@ -57,9 +57,11 @@ The fix: filter out the incomplete duplicate records at the source step, re-vali
 ## The Result: A Governed Star Schema
 
 ![Star schema relationships](images/06_star_schema_relationships.png)
+
 *One-to-many relationships from `fact_sales` to every dimension, using surrogate keys instead of text joins.*
 
 ![Final star schema model](images/07_final_star_schema_model.png)
+
 *The completed model — every raw table consolidated into a governed set of fact and dimension tables.*
 
 ## Securing the Model
