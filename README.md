@@ -2,9 +2,7 @@
 
 Redesigned a fragmented, 23-table raw dataset into a governed **star schema** in Power BI — fixing broken keys, resolving data-quality issues, and enabling reliable, scalable reporting for the business.
 
-**[📄 Full write-up (Word doc, 41 pages)](docs/Sales_Marketing_Data_Modelling_Project.docx)**
-
----
+Sales_Marketing_Data_Modelling_Project.docx - https://github.com/Shravan-SDVE/Sales_-_Marketing_Data_Modelling/tree/main/docs
 
 ## The Problem
 
