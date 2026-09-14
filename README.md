@@ -72,6 +72,7 @@ Row-level security was implemented on `dim_customer` and propagated across the c
 *RLS rule applied on `dim_customer`.*
 
 ![RLS role applied](images/09_rls_role_applied.png)
+
 *Same report, viewed under a restricted regional role — totals automatically filter to the user's scope.*
 
 ## Business Outcomes
@@ -87,4 +88,4 @@ Row-level security was implemented on `dim_customer` and propagated across the c
 
 ---
 
-*Full methodology, step-by-step build notes, and all 48 supporting screenshots are available in the [complete write-up](docs/Sales_Marketing_Data_Modelling_Project.docx).*
+*Full methodology, step-by-step build notes, and all 48 supporting screenshots are available in the [complete write-up]([docs/Sales_Marketing_Data_Modelling_Project.docx](https://github.com/Shravan-SDVE/Sales_-_Marketing_Data_Modelling/tree/main/docs)).*
